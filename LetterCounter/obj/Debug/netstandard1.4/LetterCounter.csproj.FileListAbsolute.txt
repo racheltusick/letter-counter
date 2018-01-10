@@ -1,0 +1,15 @@
+c:\users\john\source\repos\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.deps.json
+c:\users\john\source\repos\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.dll
+c:\users\john\source\repos\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.pdb
+c:\users\john\source\repos\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.csproj.CoreCompileInputs.cache
+c:\users\john\source\repos\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.AssemblyInfo.cs
+c:\users\john\source\repos\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.dll
+c:\users\john\source\repos\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.pdb
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.deps.json
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.dll
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\bin\Debug\netstandard1.4\LetterCounter.pdb
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.AssemblyInfo.cs
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.dll
+C:\Users\Rachel\Documents\Code Academy\C# Week 4\LetterCounter\LetterCounter\obj\Debug\netstandard1.4\LetterCounter.pdb

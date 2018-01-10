@@ -1,0 +1,15 @@
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\LetterCounterTests.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\LetterCounterTests.pdb
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\LetterCounter.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\LetterCounter.pdb
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\obj\Debug\LetterCounterTests.csprojResolveAssemblyReference.cache
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\obj\Debug\LetterCounterTests.csproj.CoreCompileInputs.cache
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\obj\Debug\LetterCounterTests.dll
+c:\users\john\source\repos\LetterCounter\LetterCounterTests\obj\Debug\LetterCounterTests.pdb
